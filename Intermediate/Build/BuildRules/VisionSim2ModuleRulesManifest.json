@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\HariTVETNegara\\VisionSimV3\\Plugins\\ReadyPlayerMe\\Source\\ReadyPlayerMeEditor\\ReadyPlayerMeEditor.Build.cs",
+		"D:\\HariTVETNegara\\VisionSimV3\\Plugins\\ReadyPlayerMe\\Source\\ReadyPlayerMe\\ReadyPlayerMe.Build.cs",
+		"D:\\HariTVETNegara\\VisionSimV3\\Plugins\\ReadyPlayerMe\\Source\\RpmAvatarCreator\\RpmAvatarCreator.Build.cs",
+		"D:\\HariTVETNegara\\VisionSimV3\\Plugins\\ReadyPlayerMe\\Source\\ThirdParty\\glTFRuntimeEditor\\glTFRuntimeEditor.Build.cs",
+		"D:\\HariTVETNegara\\VisionSimV3\\Plugins\\ReadyPlayerMe\\Source\\ThirdParty\\glTFRuntime\\glTFRuntime.Build.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
